@@ -3,4 +3,4 @@ layout: post
 title: Project Proposal
 ---
 
-[Project Proposal](../assets/proposal.pdf)
+[Project Proposal]({{ site.baseurl }}/assets/proposal.pdf)
